@@ -1,0 +1,38 @@
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\Quan Ly Sinh Vien.exe.config
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\Quan Ly Sinh Vien.exe
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\Quan Ly Sinh Vien.pdb
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.frmLogin.resources
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\Quan Ly Sinh Vien.exe
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\Quan Ly Sinh Vien.pdb
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\MetroFramework.Design.dll
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\MetroFramework.dll
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\MetroFramework.Fonts.dll
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.frmMain.resources
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.frmThongTin.resources
+D:\HOC TAP\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.frmLop.resources
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\Quan Ly Sinh Vien.exe.config
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\Quan Ly Sinh Vien.exe
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\Quan Ly Sinh Vien.pdb
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\Quan Ly Sinh Vien.exe
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\Quan Ly Sinh Vien.pdb
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\MetroFramework.Design.dll
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\MetroFramework.dll
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\MetroFramework.Fonts.dll
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\mscorlib.dll
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\System.Net.Http.dll
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\System.Net.Http.xml
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\normidna.nlp
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\normnfc.nlp
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\normnfd.nlp
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\normnfkc.nlp
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\bin\Debug\normnfkd.nlp
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.frmLogin.resources
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.frmLop.resources
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.frmMain.resources
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.frmThongTin.resources
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
