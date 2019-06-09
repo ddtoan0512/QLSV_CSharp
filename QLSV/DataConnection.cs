@@ -9,9 +9,9 @@ namespace QLSV
     class DataConnection
     {
         string conStr;
-
+        // Lop ket noi
         public DataConnection() {
-            conStr = "Data Source = TOAN-PC\\SQLEXPRESS; Initial Catalog = QLSV_BTL; Integrated Security=True";
+            conStr = @"Data Source = TOANPC\SQLSERVER; Initial Catalog = QLSV; Integrated Security=True";
         }
 
         public SqlConnection getConnect()

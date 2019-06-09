@@ -12,7 +12,7 @@ namespace QLSV
         LOPDAL dalLOP;
         public LOPBLL()
         {
-            dalLOP = new LOPDAL();
+            dalLOP = new LOPDAL(); //s
         }
 
         public DataTable getAllLop()

@@ -53,7 +53,7 @@ namespace QLSV
                 SqlConnection conn = dc.getConnect();
                 string tk = txtUser.Text;
                 string mk = txtPass.Text;
-                string sql = "SELECT * FROM tblTaiKhoan WHERE id = '" + tk + "' AND pass = '" + mk + "'";
+                string sql = "SELECT * FROM TaiKhoan WHERE id = '" + tk + "' AND pass = '" + mk + "'";
                 SqlCommand cmd = new SqlCommand(sql, conn);
                 conn.Open();
                 SqlDataReader dr = cmd.ExecuteReader(); //<-Dung CHo SELECT //Cau lenh INSERT, ... cmd.ExecuteNonQuery();
@@ -102,7 +102,7 @@ namespace QLSV
                 dc = new DataConnection();
                 SqlConnection conn = dc.getConnect();
                 conn.Open();
-                cmd = new SqlCommand("INSERT INTO tblTaiKhoan(id, pass) VALUES(@id, @pass)", conn);
+                cmd = new SqlCommand("INSERT INTO TaiKhoan(id, pass) VALUES(@id, @pass)", conn);
                 cmd.Parameters.Add("@id", txtUser.Text);
                 cmd.Parameters.Add("@pass", txtPass.Text);
                 cmd.ExecuteNonQuery();

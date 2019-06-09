@@ -36,3 +36,52 @@ D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.frmMain.resources
 D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.frmThongTin.resources
 D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.Properties.Resources.resources
 D:\HACTECH\HK3\C#\Project\QLSV_BTL\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\Quan Ly Sinh Vien.exe.config
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\obj\Debug\Quan Ly Sinh Vien.exe
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\obj\Debug\Quan Ly Sinh Vien.pdb
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\Quan Ly Sinh Vien.exe
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\Quan Ly Sinh Vien.pdb
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\MetroFramework.Design.dll
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\MetroFramework.dll
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\MetroFramework.Fonts.dll
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\mscorlib.dll
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\System.Net.Http.dll
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\System.Net.Http.xml
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\normidna.nlp
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\normnfc.nlp
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\normnfd.nlp
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\normnfkc.nlp
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\bin\Debug\normnfkd.nlp
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\obj\Debug\QLSV.frmLogin.resources
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\obj\Debug\QLSV.frmLop.resources
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\obj\Debug\QLSV.frmMain.resources
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\obj\Debug\QLSV.frmThongTin.resources
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\HACTECH\HK3\C#\Project\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSinhVien\QLSV\bin\Debug\Quan Ly Sinh Vien.exe.config
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSinhVien\QLSV\obj\Debug\Quan Ly Sinh Vien.exe
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSinhVien\QLSV\obj\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\Quan Ly Sinh Vien.exe.config
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\Quan Ly Sinh Vien.exe
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\Quan Ly Sinh Vien.exe
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\MetroFramework.Design.dll
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\MetroFramework.dll
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\mscorlib.dll
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\System.Net.Http.dll
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\System.Net.Http.xml
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\normidna.nlp
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\normnfc.nlp
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\normnfd.nlp
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\normnfkc.nlp
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\bin\Debug\normnfkd.nlp
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\QLSV.frmLogin.resources
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\QLSV.frmLop.resources
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\QLSV.frmMain.resources
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\QLSV.frmThongTin.resources
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache

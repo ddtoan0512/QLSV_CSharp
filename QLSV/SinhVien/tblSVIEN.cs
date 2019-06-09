@@ -12,7 +12,7 @@ namespace QLSV
         public string TenSV { get; set; }
         public string GioiTinh { get; set; }
         public string Lop { get; set; }
-        public decimal Diem { get; set; }
+        public decimal Diem { get; set; } //
         public string DiaChi{ get; set; }
         public string NgaySinh { get; set; }
     }

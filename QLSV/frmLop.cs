@@ -50,6 +50,7 @@ namespace QLSV
 
         private void btnThemLop_Click(object sender, EventArgs e)
         {
+            // Them lop
             if (KiemTraDataLop())
             {
                 tblLop lop = new tblLop();

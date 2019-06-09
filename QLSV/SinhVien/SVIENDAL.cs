@@ -16,7 +16,7 @@ namespace QLSV
 
         public SVIENDAL()
         { 
-            dc = new DataConnection();
+            dc = new DataConnection();//
 
         }
         public DataTable getAllSVien()
