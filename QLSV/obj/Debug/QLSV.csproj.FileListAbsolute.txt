@@ -85,3 +85,23 @@ C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\QLSV.frmMai
 C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\QLSV.frmThongTin.resources
 C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\QLSV.Properties.Resources.resources
 C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\RdlCompile.cache
+C:\Users\Toan Dang\Desktop\TTNN\QLSinhVien\QLSinhVien\QLSV\obj\Debug\RdlCompile.compiled
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\bin\Debug\Quan Ly Sinh Vien.exe.config
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\Quan Ly Sinh Vien.exe
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\bin\Debug\Quan Ly Sinh Vien.exe
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\bin\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\bin\Debug\MetroFramework.Design.dll
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\bin\Debug\MetroFramework.dll
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\QLSV.frmLogin.resources
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\QLSV.frmLop.resources
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\QLSV.frmMain.resources
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\QLSV.frmRPDanhSachSV.resources
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\QLSV.frmThongTin.resources
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\RdlCompile.cache
+C:\Users\Toan Dang\Desktop\QLSinhVien\QLSV\obj\Debug\RdlCompile.compiled

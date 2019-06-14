@@ -31,6 +31,7 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMain));
             this.panelLeftMain = new System.Windows.Forms.Panel();
+            this.btnInDSSV = new System.Windows.Forms.Button();
             this.pnlSelect = new System.Windows.Forms.Panel();
             this.btnQLLop = new System.Windows.Forms.Button();
             this.btnAbout = new System.Windows.Forms.Button();
@@ -76,6 +77,7 @@
             | System.Windows.Forms.AnchorStyles.Left)));
             this.panelLeftMain.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(54)))), ((int)(((byte)(80)))));
             this.panelLeftMain.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.panelLeftMain.Controls.Add(this.btnInDSSV);
             this.panelLeftMain.Controls.Add(this.pnlSelect);
             this.panelLeftMain.Controls.Add(this.btnQLLop);
             this.panelLeftMain.Controls.Add(this.btnAbout);
@@ -85,6 +87,22 @@
             this.panelLeftMain.Name = "panelLeftMain";
             this.panelLeftMain.Size = new System.Drawing.Size(225, 552);
             this.panelLeftMain.TabIndex = 0;
+            // 
+            // btnInDSSV
+            // 
+            this.btnInDSSV.FlatAppearance.BorderSize = 0;
+            this.btnInDSSV.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnInDSSV.Font = new System.Drawing.Font("Times New Roman", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnInDSSV.ForeColor = System.Drawing.Color.White;
+            this.btnInDSSV.Image = global::QLSV.Properties.Resources.logo_Student26px11;
+            this.btnInDSSV.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnInDSSV.Location = new System.Drawing.Point(15, 299);
+            this.btnInDSSV.Name = "btnInDSSV";
+            this.btnInDSSV.Size = new System.Drawing.Size(163, 36);
+            this.btnInDSSV.TabIndex = 15;
+            this.btnInDSSV.Text = "In DSSV";
+            this.btnInDSSV.UseVisualStyleBackColor = true;
+            this.btnInDSSV.Click += new System.EventHandler(this.button1_Click);
             // 
             // pnlSelect
             // 
@@ -481,5 +499,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Lop;
         private System.Windows.Forms.DataGridViewTextBoxColumn DiaChi;
         private System.Windows.Forms.DataGridViewTextBoxColumn Diem;
+        private System.Windows.Forms.Button btnInDSSV;
     }
 }

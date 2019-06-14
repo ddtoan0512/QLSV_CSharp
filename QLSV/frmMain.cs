@@ -206,6 +206,12 @@ namespace QLSV
 
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmRPDanhSachSV frmDS = new frmRPDanhSachSV();
+            frmDS.Show();
+        }
+
       
     }
 }
